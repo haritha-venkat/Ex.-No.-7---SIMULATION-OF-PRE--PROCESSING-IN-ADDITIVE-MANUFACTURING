@@ -1,5 +1,5 @@
 # Ex No:6.1 SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE:29.04.24
+### DATE:28.04.24
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
